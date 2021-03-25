@@ -1,7 +1,6 @@
 ### Hi I'm YauTze(Daniel) 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yautze&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/yautze)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yautze)](https://github.com/yautze?tab=repositories)
 <!--
 **yautze/yautze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
