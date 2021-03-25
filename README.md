@@ -4,6 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yautze&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage)](https://github.com/yautze?tab=repositories)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yautze&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 <!--
 **yautze/yautze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
