@@ -1,4 +1,4 @@
-## Hi I'm Daniel(YauTze) 👋
+<div align="center"><h1>Hi I'm Daniel(YauTze) 👋</h2></div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yautze)](https://github.com/yautze?tab=repositories)
 
