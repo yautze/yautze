@@ -6,6 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yautze&theme=onedark)](https://github-profile-trophy.vercel.app/?username=yautze&theme=onedark)
 
+## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yautze&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage)](https://github-readme-stats.vercel.app/api?username=yautze&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yautze&theme=onedark)](http://github-readme-streak-stats.herokuapp.com?user=yautze&theme=onedark)
