@@ -1,6 +1,6 @@
 <div align="center"><h1>Hi I'm Daniel(YauTze) 👋</h2></div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yautze)](https://github.com/yautze?tab=repositories)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yautze&theme=onedark)](https://github.com/yautze?tab=repositories)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yautze&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage)](https://github.com/yautze?tab=repositories)
 
