@@ -3,8 +3,9 @@
 <!-- 瀏覽次數 -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=yautze.yautze)
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<h2>👨🏻‍💻 &nbsp;About Me</h2>
 <h4 align="left">🔭 I’m currently working on Tyr-tech</h4>
-<h4 align="left">🌱 I’m currently learning Golang</h4> 
+<h4 align="left">🌱 I’m currently learning Golang & DDD</h4> 
 
 <!-- skill -->
 ## 🖥️ Languages and Tools:
