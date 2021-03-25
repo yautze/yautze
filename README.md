@@ -1,10 +1,10 @@
 <div align="center"><h1>Hi I'm Daniel(YauTze) 👋</h2></div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yautze&theme=onedark)](https://github.com/yautze?tab=repositories)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yautze&theme=onedark)](https://github-profile-trophy.vercel.app/?username=yautze&theme=onedark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yautze&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage)](https://github.com/yautze?tab=repositories)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yautze&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage)](https://github-readme-stats.vercel.app/api?username=yautze&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yautze&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yautze&theme=onedark)](http://github-readme-streak-stats.herokuapp.com?user=yautze&theme=onedark)
 
 <!--
 **yautze/yautze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
