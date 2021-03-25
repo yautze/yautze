@@ -1,10 +1,10 @@
 <div align="center"><h1>Hi I'm Daniel(YauTze) 👋</h2></div>
 
 <!--瀏覽次數-->
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=yautze.yautze)
 
 <!--追蹤人數-->
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/yautze?label=Follow&style=social)](https://github.com/yautze)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yautze&theme=onedark)](https://github-profile-trophy.vercel.app/?username=yautze&theme=onedark)
 
