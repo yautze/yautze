@@ -1,4 +1,4 @@
-<div align="center"><h1>Hi I'm Daniel (YauTze) 👋</h1></div>
+<div align="center"><h1>Hi I'm Daniel (YauTze) <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="35" /></h1></div>
 <h3 align="center">A passionate Backend developer from Taiwan</h3>
 
 <!-- 瀏覽次數 -->
