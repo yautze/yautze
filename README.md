@@ -42,8 +42,7 @@
 <div>
   <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=yautze&theme=onedark" width="99%" alt="YauTze"/></p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yautze&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage" width="49.5%" alt="YauTze"/>
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yautze&theme=ayu-mirage&hide_border=flase" width="49.5%" alt="YauTze"/> 
-                                                                                                                                    
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yautze&theme=ayu-mirage&hide_border=flase" width="49.5%" alt="YauTze"/>                                                                                                                              
 </div>
 
 
