@@ -19,8 +19,11 @@
 <!-- DB -->
 ![mongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongoDb)
 ![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
-![MaroaDB](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mariadb)&nbsp;
+![MariaDB](https://img.shields.io/badge/-mariadb-05122A?style=flat&logo=mariadb)&nbsp;
 ![Redis](https://img.shields.io/badge/-redis-05122A?style=flat&logo=redis)&nbsp;
+
+<!-- 部署 -->
+![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)
 
 <!-- IDE -->
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -29,10 +32,6 @@
 
 <!-- consul-->
 ![Consul](https://img.shields.io/badge/-consul-05122A?style=flat&logo=consul)
-
-<!-- git -->
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 
 
