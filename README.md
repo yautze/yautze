@@ -9,21 +9,26 @@
 
 <!-- skill -->
 ## 🖥️ Languages and Tools:
-<!-- languages -->
+<!-- back -->
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
+
+<!-- web -->
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 <!-- DB -->
 ![mongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongoDb)
 ![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
-![MariaDB](https://img.shields.io/badge/-mariadb-05122A?style=flat&logo=mariadb)&nbsp;
 ![Redis](https://img.shields.io/badge/-redis-05122A?style=flat&logo=redis)&nbsp;
 
 <!-- 部署 -->
 ![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)
+![heroku](https://img.shields.io/badge/-heroku-05122A?style=flat&logo=heroku)
 
 <!-- IDE -->
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
