@@ -4,7 +4,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=yautze.yautze)
 <img alt="Night Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width=260 height=200 align="right"/>
 <h3>👨🏻‍💻 &nbsp;About Me</h3>
-<h4 align="left"><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" /> I’m currently working on Tyr-tech</h4>
+
+<h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" /> I’m currently working on Tyr-tech</h4>
 <h4 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I’m currently learning Golang & DDD</h4> 
 
 <!-- skill -->
@@ -41,7 +42,7 @@
 <div>
   <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=yautze&theme=onedark" width="98%" alt="YauTze"/></p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yautze&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage" width="49%" alt="YauTze"/>
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yautze&theme=ayu-mirage&hide_border=flase" width="49%" alt="YauTze"/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yautze&theme=ayu-mirage&hide_border=flase" width="49%" alt="YauTze"/> 
                                                                                                                                     
 </div>
 
