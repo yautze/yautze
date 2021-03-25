@@ -2,8 +2,8 @@
 
 <!-- 瀏覽次數 -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=yautze.yautze)
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-<h2>👨🏻‍💻 &nbsp;About Me</h2>
+<img alt="Night Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width=260 height=200 align="right"/>
+<h3>👨🏻‍💻 &nbsp;About Me</h3>
 <h4 align="left">🔭 I’m currently working on Tyr-tech</h4>
 <h4 align="left">🌱 I’m currently learning Golang & DDD</h4> 
 
@@ -14,6 +14,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
 
 <!-- web -->
