@@ -10,7 +10,7 @@
 <h4 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I’m currently learning Golang & DDD</h4> 
 
 <!-- skill -->
-## 🖥️ Languages and Tools:
+## 🖥️  &nbsp; Languages and Tools:
 <!-- back -->
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
