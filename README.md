@@ -1,4 +1,4 @@
-<div align="center"><h1>Hi I'm Daniel (YauTze)<img src="https://user-images.githubusercontent.com/40264497/112563086-a0e7ca00-8e13-11eb-8382-6e1e71f7b5e9.png" width="30" />
+<div align="center"><h1>Hi I'm Daniel (YauTze)<img src="https://emoji.slack-edge.com/T014NFWNW8J/hyper/02a58f18dc8f04f1.gif" width="30" />
 </h1></div>
 
 <!-- 瀏覽次數 -->
