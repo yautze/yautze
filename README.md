@@ -51,7 +51,7 @@
 ## ✉️ &nbsp; Find me:
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/%E6%89%BF%E7%A5%90-%E9%99%B3-855837201/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.linkedin.com/in/%E6%89%BF%E7%A5%90-%E9%99%B3-855837201/" target="_blank" rel="noopener noreferrer"> <img src="https://www.africabaie.com/wp-content/uploads/2020/10/Linkedin-Logo-Africabaie.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <!--
