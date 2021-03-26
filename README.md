@@ -2,8 +2,8 @@
 
 <!-- 瀏覽次數 -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=yautze.yautze)
-<img alt="Night Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width=260 height=200 align="right"/>
-<h3>👨🏻‍💻 About Me</h3>
+<img alt="Night Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width=240 height=200 align="right"/>
+<h3>👨🏻‍💻 &nbsp; About Me</h3>
 
 <h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" /> I’m currently working on Tyr-tech</h4>
 <h4 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I’m currently learning Golang & DDD</h4> 
@@ -38,7 +38,7 @@
 ![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim)&nbsp;
 ![NeoVim](https://img.shields.io/badge/-neovim-05122A?style=flat&logo=neovim)&nbsp;
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp; GitHub Analytics
 <div>
   <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=yautze&theme=onedark" width="99%" alt="YauTze"/></p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yautze&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage" width="49.5%" alt="YauTze"/>
@@ -47,7 +47,7 @@
 
 
 <!-- 聯絡我 -->
-## ✉️ Find me:
+## ✉️ &nbsp; Find me:
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/%E6%89%BF%E7%A5%90-%E9%99%B3-855837201/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
