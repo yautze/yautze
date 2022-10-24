@@ -6,7 +6,7 @@
 <img alt="Night Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width=240 height=200 align="right"/>
 <h3>👨🏻‍💻 &nbsp; About Me</h3>
 
-<h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" /> I’m currently working on Tyr-tech</h4>
+<h4 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" /> I’m currently working on AmazingTalker</h4>
 <h4 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I’m currently learning Golang & DDD</h4> 
 
 <!-- skill -->
